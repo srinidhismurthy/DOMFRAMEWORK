@@ -1,0 +1,895 @@
+1498023365889	geckodriver	INFO	Listening on 127.0.0.1:51750
+1498023367994	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498023369258	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498023374314	Marionette	INFO	Listening on port 51756
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1498023375380	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default2484&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1498108290343	geckodriver	INFO	Listening on 127.0.0.1:59343
+1498108292234	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498108295116	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498108303538	Marionette	INFO	Listening on port 59349
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1498108304757	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default9891&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1498108711255	geckodriver	INFO	Listening on 127.0.0.1:59484
+1498108713303	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498108714633	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498108719445	Marionette	INFO	Listening on port 59490
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1498108720071	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default6866&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1498110632500	geckodriver	INFO	Listening on 127.0.0.1:59770
+1498110634618	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498110635780	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498110641343	Marionette	INFO	Listening on port 59776
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1498110642135	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+1498111002672	geckodriver	INFO	Listening on 127.0.0.1:60009
+1498111004760	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498111005187	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498111009609	Marionette	INFO	Listening on port 60015
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1498111010073	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default6261&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1498111292363	geckodriver	INFO	Listening on 127.0.0.1:60144
+1498111294482	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498111295171	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498111299859	Marionette	INFO	Listening on port 60150
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1498111300364	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default3943&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1498112358476	geckodriver	INFO	Listening on 127.0.0.1:60304
+1498112360607	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498112361060	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498112365325	Marionette	INFO	Listening on port 60310
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1498112365945	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+1498112462902	geckodriver	INFO	Listening on 127.0.0.1:60434
+1498112465002	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498112466203	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498112470391	Marionette	INFO	Listening on port 60440
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1498112470792	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default4961&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1498112985795	geckodriver	INFO	Listening on 127.0.0.1:60602
+1498112987913	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498112988807	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498112993445	Marionette	INFO	Listening on port 60609
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1498112993991	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XPCOMUtils.jsm, line 230: TypeError: Cc[aContract] is undefined
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+1498114673137	geckodriver	INFO	Listening on 127.0.0.1:60942
+1498114675177	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498114676325	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498114680815	Marionette	INFO	Listening on port 60948
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1498114681462	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default9092&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1498114948542	geckodriver	INFO	Listening on 127.0.0.1:61092
+1498114950581	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498114951728	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498114956390	Marionette	INFO	Listening on port 61098
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1498114957087	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default7689&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1498115102713	geckodriver	INFO	Listening on 127.0.0.1:61224
+1498115104800	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498115105906	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498115110241	Marionette	INFO	Listening on port 61230
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1498115110770	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default8809&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1498115340821	geckodriver	INFO	Listening on 127.0.0.1:61364
+1498115342891	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498115343835	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498115348668	Marionette	INFO	Listening on port 61370
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1498115349186	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default3476&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1498115516869	geckodriver	INFO	Listening on 127.0.0.1:61501
+1498115518970	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498115520312	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498115524910	Marionette	INFO	Listening on port 61507
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1498115525472	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default1688&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1498118307936	geckodriver	INFO	Listening on 127.0.0.1:61969
+1498118310039	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498118311286	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498118316235	Marionette	INFO	Listening on port 61975
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1498118316729	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 536: TypeError: this.tablesData[table] is undefined
+1498118390273	geckodriver	INFO	Listening on 127.0.0.1:62045
+1498118392401	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498118393729	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498118398997	Marionette	INFO	Listening on port 62051
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1498118399774	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default9511&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1498118477162	geckodriver	INFO	Listening on 127.0.0.1:62181
+1498118479257	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498118479770	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498118484521	Marionette	INFO	Listening on port 62187
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1498118485102	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default542&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1498118592096	geckodriver	INFO	Listening on 127.0.0.1:62314
+1498118594191	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498118594642	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498118598813	Marionette	INFO	Listening on port 62320
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1498118599451	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default8102&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1498118847473	geckodriver	INFO	Listening on 127.0.0.1:62450
+1498118849580	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498118849968	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498118854564	Marionette	INFO	Listening on port 62456
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1498118855016	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default2435&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1498118976693	geckodriver	INFO	Listening on 127.0.0.1:62582
+1498118978799	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498118979219	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498118983773	Marionette	INFO	Listening on port 62588
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1498118984201	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default3541&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1498119737249	geckodriver	INFO	Listening on 127.0.0.1:62797
+1498119739376	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498119739826	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498119744453	Marionette	INFO	Listening on port 62805
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1498119744956	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default6874&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1498119876460	geckodriver	INFO	Listening on 127.0.0.1:62934
+1498119878547	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498119879836	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498119884417	Marionette	INFO	Listening on port 62940
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1498119885001	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default1398&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1498120212499	geckodriver	INFO	Listening on 127.0.0.1:63079
+1498120214576	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498120215797	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498120220461	Marionette	INFO	Listening on port 63085
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1498120220904	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default3059&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1416: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+ps%3A%2F%2Fsso.teachable.com&xdm_c=default9721&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+ALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498120578621	Marionette	INFO	Listening on port 63378
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1498120579128	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default8914&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+1498120655584	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498120660197	Marionette	INFO	Listening on port 63519
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1498120660852	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default353&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1498120724475	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1498121188724	geckodriver	INFO	Listening on 127.0.0.1:63688
+1498121190753	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498121192079	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498121196749	Marionette	INFO	Listening on port 63694
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1498121197281	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default3219&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1416: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+1498122537834	geckodriver	INFO	Listening on 127.0.0.1:63896
+1498122539942	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498122540358	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498122544929	Marionette	INFO	Listening on port 63902
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1498122545492	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default4069&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1416: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+20012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+1498125834105	geckodriver	INFO	Listening on 127.0.0.1:64616
+1498125836047	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498125838000	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498125843097	Marionette	INFO	Listening on port 64622
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1498125843919	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default3312&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1416: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+1498126551768	geckodriver	INFO	Listening on 127.0.0.1:64805
+1498126553865	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498126555337	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498126559828	Marionette	INFO	Listening on port 64811
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1498126560496	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default1595&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1416: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+O	Listening on port 64962
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1498126638750	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default7788&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1416: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+1498128229928	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498128242624	Marionette	INFO	Listening on port 65240
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1498128244838	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default6704&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+1498128377692	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498128381942	Marionette	INFO	Listening on port 65393
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1498128382401	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default9152&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1498129216313	geckodriver	INFO	Listening on 127.0.0.1:49260
+1498129218430	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498129218944	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498129223459	Marionette	INFO	Listening on port 49266
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1498129224006	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default5569&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default4877&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+1498130707240	geckodriver	INFO	Listening on 127.0.0.1:49789
+1498130709405	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498130710809	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498130715300	Marionette	INFO	Listening on port 49795
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1498130716407	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default3920&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1416: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+NITIALIZED: AddonManager is not initialized
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498131302089	Marionette	INFO	Listening on port 49986
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1498131302556	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default7355&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default3291&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+1498132825113	geckodriver	INFO	Listening on 127.0.0.1:50300
+1498132827187	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498132828604	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498132833148	Marionette	INFO	Listening on port 50307
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1498132833605	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default6648&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default3861&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1498133624385	geckodriver	INFO	Listening on 127.0.0.1:50655
+1498133626532	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498133627619	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498133632698	Marionette	INFO	Listening on port 50661
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1498133632981	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498133751033	geckodriver	INFO	Listening on 127.0.0.1:50751
+1498133753134	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498133754488	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498133758817	Marionette	INFO	Listening on port 50757
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1498133759396	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498135781782	geckodriver	INFO	Listening on 127.0.0.1:51137
+1498135783853	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498135785122	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498135794941	Marionette	INFO	Listening on port 51143
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1498135795531	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498135928952	geckodriver	INFO	Listening on 127.0.0.1:51246
+1498135930991	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498135932317	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498135936832	Marionette	INFO	Listening on port 51252
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1498135937348	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default1004&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default916&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+1498136127537	geckodriver	INFO	Listening on 127.0.0.1:51450
+1498136129606	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498136130733	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498136136395	Marionette	INFO	Listening on port 51456
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1498136137686	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default6859&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default668&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1498144434968	geckodriver	INFO	Listening on 127.0.0.1:53699
+1498144437146	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498144439221	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498144445425	Marionette	INFO	Listening on port 53705
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1498144445704	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default4829&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default8025&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1498144610754	geckodriver	INFO	Listening on 127.0.0.1:53900
+1498144612820	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498144616097	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498144620696	Marionette	INFO	Listening on port 53906
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1498144621320	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default9142&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+ALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498144721979	Marionette	INFO	Listening on port 54065
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1498144723451	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+1498145329292	geckodriver	INFO	Listening on 127.0.0.1:54237
+1498145331357	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498145332759	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498145337168	Marionette	INFO	Listening on port 54243
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1498145337788	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default3075&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1416: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+tDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498150999344	Marionette	INFO	Listening on port 54989
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1498150999758	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default6395&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1498151055675	geckodriver	INFO	Listening on 127.0.0.1:55141
+1498151057772	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498151059059	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498151063385	Marionette	INFO	Listening on port 55147
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1498151063873	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default3499&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1498151176108	geckodriver	INFO	Listening on 127.0.0.1:55292
+1498151178221	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498151179321	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498151184245	Marionette	INFO	Listening on port 55299
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1498151184838	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default1558&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1498151668747	geckodriver	INFO	Listening on 127.0.0.1:55474
+1498151670843	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498151671497	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498151675968	Marionette	INFO	Listening on port 55480
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1498151676495	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+1498151820625	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498151825237	Marionette	INFO	Listening on port 55615
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1498151825829	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default5589&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1498151867421	geckodriver	INFO	Listening on 127.0.0.1:55758
+1498151869570	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498151870792	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498151875700	Marionette	INFO	Listening on port 55764
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1498151876177	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default6410&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1498151953258	geckodriver	INFO	Listening on 127.0.0.1:55917
+1498151955352	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498151956399	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498151960912	Marionette	INFO	Listening on port 55923
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1498151961390	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498152046490	geckodriver	INFO	Listening on 127.0.0.1:56036
+1498152048600	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498152049795	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498152054352	Marionette	INFO	Listening on port 56042
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1498152054859	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default7057&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1498152383784	geckodriver	INFO	Listening on 127.0.0.1:56205
+1498152385851	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498152386278	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498152390580	Marionette	INFO	Listening on port 56211
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1498152391141	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default6380&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1498153740021	geckodriver	INFO	Listening on 127.0.0.1:56562
+1498153742090	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498153743553	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498153748629	Marionette	INFO	Listening on port 56568
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1498153749437	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1416: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default4830&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1498154199110	geckodriver	INFO	Listening on 127.0.0.1:56851
+1498154201169	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498154202416	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498154206879	Marionette	INFO	Listening on port 56857
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1498154207475	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default3497&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1498154606342	geckodriver	INFO	Listening on 127.0.0.1:57050
+1498154608437	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498154608841	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498154613429	Marionette	INFO	Listening on port 57056
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1498154613960	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default9817&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1498189252108	geckodriver	INFO	Listening on 127.0.0.1:58314
+1498189254098	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498189255758	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498189261346	Marionette	INFO	Listening on port 58320
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1498189262001	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default2287&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default5161&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default5950&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1498197962715	geckodriver	INFO	Listening on 127.0.0.1:60616
+1498197964777	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498197966440	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498197974356	Marionette	INFO	Listening on port 60622
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1498197975327	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498198051037	geckodriver	INFO	Listening on 127.0.0.1:60712
+1498198053247	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498198054330	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498198059233	Marionette	INFO	Listening on port 60718
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1498198059788	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default5735&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default946&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default1985&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1498203408984	geckodriver	INFO	Listening on 127.0.0.1:62265
+1498203411099	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498203411682	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498203416590	Marionette	INFO	Listening on port 62271
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1498203417040	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default3732&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default6090&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/secure-c3fb012a44bf447c625c840ab5187e55f49544baf89db7899145571752a0f750.js, line 136: ReferenceError: currentUserTaxLocation is not defined
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default8483&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1499874511153	geckodriver	INFO	Listening on 127.0.0.1:50878
+1499874512929	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1499874515651	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1499874523454	Marionette	INFO	Listening on port 50885
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1499874524714	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499874615295	geckodriver	INFO	Listening on 127.0.0.1:50959
+1499874617383	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1499874619126	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1499874624714	Marionette	INFO	Listening on port 50965
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1499874625330	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1416: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+1499875954361	geckodriver	INFO	Listening on 127.0.0.1:51107
+1499875955650	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1499875970021	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1499875995416	Marionette	INFO	Listening on port 51113
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1499875997331	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1416: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]

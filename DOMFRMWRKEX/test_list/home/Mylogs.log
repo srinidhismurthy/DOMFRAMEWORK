@@ -1,0 +1,9 @@
+23/06/2017 01:01:37 PM,MyDriver,INFO,The element with locator//a[contains(text(),'Login')]and LocatorType xpathis clicked
+23/06/2017 01:01:39 PM,MyDriver,INFO,The element with locatoruser_emailand LocatorType idhas recievedtest@gmail.com
+23/06/2017 01:01:39 PM,MyDriver,INFO,The element with locatoruser_passwordand LocatorType idhas recievedabcabc
+23/06/2017 01:01:40 PM,MyDriver,INFO,The element with locator//input[@name='commit']and LocatorType xpathis clicked
+23/06/2017 01:01:45 PM,MyDriver,INFO,###########.1 .ASSERTION FAILED in testtest2_validLogin
+23/06/2017 01:01:46 PM,MyDriver,INFO,###########.1 .ASSERTION FAILED in testTest2_validLogin
+23/06/2017 01:01:46 PM,MyDriver,ERROR,##TestCase Test2_validLogin Failed as as Asserion Failed##
+23/06/2017 01:01:46 PM,MyDriver,INFO,The element with locator//ul[@class='nav navbar-nav navbar-right']//following-sibling::li[4][@class='dropdown']and LocatorType xpathis clicked
+23/06/2017 01:01:48 PM,MyDriver,INFO,The element with locator//ul[@class='dropdown-menu']/li[4]/a[contains(text(),'Log Out')]and LocatorType xpathis clicked

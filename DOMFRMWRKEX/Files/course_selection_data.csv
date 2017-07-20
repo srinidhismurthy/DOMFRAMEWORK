@@ -1,0 +1,4 @@
+data,course_ID,cc_num,exp_date,cvc_num,select_by_type, select_by_entry
+python,154615,5555,0212,589,value,IN
+python,154615,5577,0213,587,index,2
+python,154615,5555,0212,589,value,IN
