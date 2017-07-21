@@ -19,7 +19,7 @@ class WebDriverFactory():
             driver=webdriver.Ie()
 
         driver.maximize_window()
-        baseURL = "https://letskodeit.teachable.com/"
+        baseURL = ""
         driver.get(baseURL)
         driver.implicitly_wait(10)
         return driver
